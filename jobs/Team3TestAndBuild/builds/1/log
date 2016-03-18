@@ -1,0 +1,20 @@
+Started by user [8mha:AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgYu/dLi1CL9vNKcHACFIKlWvwAAAA==[0manonymous
+Building in workspace /var/lib/jenkins/jobs/Team3TestAndBuild/workspace
+Cloning the remote Git repository
+Cloning repository https://github.com/pimeggermont/DevOps.git
+ > git init /var/lib/jenkins/jobs/Team3TestAndBuild/workspace # timeout=10
+Fetching upstream changes from https://github.com/pimeggermont/DevOps.git
+ > git --version # timeout=10
+ > git -c core.askpass=true fetch --tags --progress https://github.com/pimeggermont/DevOps.git +refs/heads/*:refs/remotes/origin/*
+ > git config remote.origin.url https://github.com/pimeggermont/DevOps.git # timeout=10
+ > git config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git config remote.origin.url https://github.com/pimeggermont/DevOps.git # timeout=10
+Fetching upstream changes from https://github.com/pimeggermont/DevOps.git
+ > git -c core.askpass=true fetch --tags --progress https://github.com/pimeggermont/DevOps.git +refs/heads/*:refs/remotes/origin/*
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+ > git rev-parse refs/remotes/origin/origin/master^{commit} # timeout=10
+Checking out Revision 6d5b9d42a1becd7ff45c9923f5219312568c4f9b (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 6d5b9d42a1becd7ff45c9923f5219312568c4f9b
+First time build. Skipping changelog.
+Finished: SUCCESS
