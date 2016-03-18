@@ -1,0 +1,14 @@
+Started on Mar 18, 2016 9:22:00 AM
+Using strategy: Default
+[poll] Last Built Revision: Revision 6d5b9d42a1becd7ff45c9923f5219312568c4f9b (refs/remotes/origin/master)
+using .gitcredentials to set credentials
+ > git --version # timeout=10
+ > git init /tmp/hudson3964501914610667259tmp # timeout=10
+ > git config --local credential.username JenkinsSettings # timeout=10
+ > git config --local credential.helper store --file=/tmp/git7601260730215608650.credentials # timeout=10
+ > git -c core.askpass=true ls-remote -h https://github.com/pimeggermont/DevOps.git # timeout=10
+ > git config --local --remove-section credential # timeout=10
+Found 2 remote heads on https://github.com/pimeggermont/DevOps.git
+[poll] Latest remote head revision on refs/heads/master is: bed2d77c2aed8e47f0e2b386b07d14e1fb6fc11b
+Done. Took 0.69 sec
+Changes found

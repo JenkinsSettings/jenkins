@@ -1,0 +1,19 @@
+Started by timer
+Building in workspace /var/lib/jenkins/jobs/Team3TestAndBuild/workspace
+ > git rev-parse --is-inside-work-tree # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/pimeggermont/DevOps.git # timeout=10
+Fetching upstream changes from https://github.com/pimeggermont/DevOps.git
+ > git --version # timeout=10
+using .gitcredentials to set credentials
+ > git config --local credential.username JenkinsSettings # timeout=10
+ > git config --local credential.helper store --file=/tmp/git528266297285837171.credentials # timeout=10
+ > git -c core.askpass=true fetch --tags --progress https://github.com/pimeggermont/DevOps.git +refs/heads/*:refs/remotes/origin/*
+ > git config --local --remove-section credential # timeout=10
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+ > git rev-parse refs/remotes/origin/origin/master^{commit} # timeout=10
+Checking out Revision df1ec7e81f57c29c0d6c32b44c6e54aba4f42abe (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f df1ec7e81f57c29c0d6c32b44c6e54aba4f42abe
+ > git rev-list df1ec7e81f57c29c0d6c32b44c6e54aba4f42abe # timeout=10
+Finished: SUCCESS

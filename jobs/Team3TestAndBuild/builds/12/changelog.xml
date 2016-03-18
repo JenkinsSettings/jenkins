@@ -1,0 +1,13 @@
+commit df1ec7e81f57c29c0d6c32b44c6e54aba4f42abe
+tree 53c898c4e8ca737db0734c4e1d4f6dfb7bddbb74
+parent bed2d77c2aed8e47f0e2b386b07d14e1fb6fc11b
+author pimeggermont <pim.eggermont@hotmail.com> 2016-03-18 10:45:34 +0100
+committer pimeggermont <pim.eggermont@hotmail.com> 2016-03-18 10:45:34 +0100
+
+    filter geoptimaliseerd + klas
+
+
+
+:100644 100644 8e9d34cbbbdf5d781d4c8dea55569eebc79e9973 acfaa398fcd226adda8a46842c4151e4f4ec5fdf M	aanwezigen.json
+:100644 100644 efbdd5be573a1bc53ec893075f44fc647af7a105 f7ea0157eb1612ecf2b6d974a8b29c3836e5d396 M	app.js
+:100644 100644 48b7bade612bd9f40e8c632121c947a6d5fc7a7a bb7f6f439a46e67aabe52cf7ac49580478145001 M	index.html

@@ -1,0 +1,14 @@
+commit df6024d8e55f8af31dc431a84399fe679d5bef7c
+tree 99ab5ab8135cebb1e0d1c1d25577b5736df495de
+parent a26407ecb0e2429c1a192787ad5a1c4516ec6740
+author janosh <janosh.1@hotmail.com> 2016-03-18 10:10:58 +0100
+committer janosh <janosh.1@hotmail.com> 2016-03-18 10:10:58 +0100
+
+    zoekfunctie toegevoegd in app.js
+
+
+
+:100644 100644 f11c77408dfc5d59c85ac593c6a05c2c1f74e5bb 8e9d34cbbbdf5d781d4c8dea55569eebc79e9973 M	aanwezigen.json
+:100644 100644 75e0db9fd5d2333c9f5d75acd293b43f4efd1b86 efbdd5be573a1bc53ec893075f44fc647af7a105 M	app.js
+:100644 100644 f1415c947f0fe971ddf40d3488251363bd7a1a70 190a6a457f2d31acb8dcf1eccda975044c0015f4 M	index.html
+:100644 100644 098912c0e2fa1de07b3af2c03e7965194596b6e9 70a903b47e9258955b9eb5ac1eef58db8dafa0b0 M	js/expressServer.js

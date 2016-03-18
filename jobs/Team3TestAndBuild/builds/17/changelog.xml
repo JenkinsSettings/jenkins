@@ -1,0 +1,25 @@
+commit d66d53694af33055ae5203eb2517fa3a9016dcf2
+tree c077ed593e94d768a488eed7f512895c83e5ff16
+parent f8bdc7edc9b731d5d73605143d7f21be3bc2c550
+author pimeggermont <pim.eggermont@hotmail.com> 2016-03-18 11:14:42 +0100
+committer pimeggermont <pim.eggermont@hotmail.com> 2016-03-18 11:14:42 +0100
+
+    index aangepast en bootstrap toegevoegd in css map
+
+
+
+:000000 100644 0000000000000000000000000000000000000000 33189e3d2702291977ef5c6ecd82886c035e0c88 A	css/bootstrap.min.css
+:100644 100644 a513c80d72e3c47cca2dac8ac74583f0b4cbbc58 46c71f6a6760ce2a0df87eaec30a188892a3b759 M	index.html
+commit f8bdc7edc9b731d5d73605143d7f21be3bc2c550
+tree deb615c7dff21aa8d7d859ff955bc0af55145f54
+parent df1ec7e81f57c29c0d6c32b44c6e54aba4f42abe
+author pimeggermont <pim.eggermont@hotmail.com> 2016-03-18 11:01:28 +0100
+committer pimeggermont <pim.eggermont@hotmail.com> 2016-03-18 11:01:28 +0100
+
+    test jenkins G
+
+
+
+:100644 100644 acfaa398fcd226adda8a46842c4151e4f4ec5fdf 0dba08c16a5170db87a21ebbe4491f5a22a58482 M	aanwezigen.json
+:100644 100644 bb7f6f439a46e67aabe52cf7ac49580478145001 a513c80d72e3c47cca2dac8ac74583f0b4cbbc58 M	index.html
+:100644 100644 92c9551e1f0d7e1754a8c72c3fd3cc12ade252b7 57140396fbf139d7de31e3b5f1093b7345bbb832 M	js/expressServer.js
